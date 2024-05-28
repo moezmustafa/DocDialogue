@@ -1,6 +1,6 @@
 # DocDialogue
 
-DocuChat is an AI-powered application that allows users to interact with and chat with their documents. Whether it's a PDF, Word document, or plain text, DocuChat can help you find the information you need through a conversational interface.
+DocDialogue is an AI-powered application that allows users to interact with and chat with their documents. Whether it's a PDF, Word document, or plain text, DocuChat can help you find the information you need through a conversational interface.
 
 ## Features
 
